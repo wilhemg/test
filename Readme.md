@@ -1,1 +1,1 @@
-Esto es el Readme d mi pagina d prueba
+Esto es el Readme de mi pagina de prueba
